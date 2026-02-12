@@ -10,3 +10,4 @@
 我再试一下下下下下下下下下
 Creating a new branch is quick.
 Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
